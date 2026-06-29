@@ -1,0 +1,58 @@
+{
+  "gameNumber": 1105,
+  "remit": [
+    [
+      {
+        "displayName": "Équipe d'Angleterre de football",
+        "id": 1,
+        "name": "ENGLAND",
+        "type": 1
+      },
+      {
+        "displayName": "Championnat d'Angleterre de football",
+        "id": 2,
+        "name": "PREMIER LEAGUE WINNER",
+        "type": 6
+      },
+      {
+        "displayName": "Manchester City Football Club",
+        "id": 3,
+        "name": "MANCHESTER CITY",
+        "type": 2
+      },
+      {
+        "displayName": "Arsenal Football Club",
+        "id": 4,
+        "name": "ARSENAL",
+        "type": 2
+      },
+      {
+        "displayName": "Équipe de Corée du Sud de football",
+        "id": 13,
+        "name": "SOUTH KOREA",
+        "type": 1
+      },
+      {
+        "displayName": "Équipe de Tchéquie de football",
+        "id": 14,
+        "name": "CZECH REPUBLIC",
+        "type": 1
+      },
+      {
+        "displayName": "Équipe de Suisse de football",
+        "id": 17,
+        "name": "SUISSE",
+        "type": 1
+      }
+    ]
+  ],
+  "players": [
+    {
+      "f": "Seung-ho",
+      "g": "Paik",
+      "id": 891,
+      "p": "Milieu"
+    }
+  ],
+  "publishedAt": "2026-06-29T18:17:54.462Z"
+}
