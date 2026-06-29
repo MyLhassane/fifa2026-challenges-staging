@@ -1,0 +1,70 @@
+{
+  "gameNumber": 1104,
+  "remit": [
+    [
+      {
+        "displayName": "Équipe du Brésil de football",
+        "id": 23,
+        "name": "BRAZIL",
+        "type": 1
+      },
+      {
+        "displayName": "Équipe de France de football",
+        "id": 43,
+        "name": "FRANCE",
+        "type": 1
+      },
+      {
+        "displayName": "ERE",
+        "id": 75,
+        "name": "EREDIVISIE",
+        "type": 3
+      },
+      {
+        "displayName": "CHE",
+        "id": 96,
+        "name": "CHELSEA FC",
+        "type": 2
+      }
+    ]
+  ],
+  "players": [
+    {
+      "f": "ALISON",
+      "g": "BECKER",
+      "id": 97,
+      "p": "GK"
+    },
+    {
+      "f": "EDERSON",
+      "g": "MORAES",
+      "id": 98,
+      "p": "GK"
+    },
+    {
+      "f": "WESLEY",
+      "g": "FRANCA",
+      "id": 105,
+      "p": "RB"
+    },
+    {
+      "f": "IGOR",
+      "g": "THIAGO",
+      "id": 119,
+      "p": "ST"
+    },
+    {
+      "f": "Veiga",
+      "g": "Renato",
+      "id": 747,
+      "p": "Défense"
+    },
+    {
+      "f": "DOUGLAS",
+      "g": "DOS SANTOS",
+      "id": 896,
+      "p": "Défense"
+    }
+  ],
+  "publishedAt": "2026-06-29T18:23:15.491Z"
+}
