@@ -1,0 +1,137 @@
+{
+  "gameNumber": 1106,
+  "gameType": "factor",
+  "remit": [
+    [
+      {
+        "displayName": "Manchester City Football Club",
+        "id": 3,
+        "name": "MANCHESTER CITY",
+        "type": 2
+      },
+      {
+        "displayName": "Championnat d'Espagne de football",
+        "id": 6,
+        "name": "LA LIGA WINNER",
+        "type": 6
+      },
+      {
+        "displayName": "Barcelona Club de Fútbol",
+        "id": 8,
+        "name": "BARCELONA",
+        "type": 2
+      },
+      {
+        "displayName": "Le championnat de France de football, appelé « Ligue 1 »",
+        "id": 64,
+        "name": "LIGUE 1",
+        "type": 3
+      },
+      {
+        "displayName": "INT",
+        "id": 76,
+        "name": "INTER MILAN",
+        "type": 2
+      },
+      {
+        "displayName": "ATH",
+        "id": 113,
+        "name": "ATHLETIC BILBAO",
+        "type": 2
+      },
+      {
+        "displayName": "AFC",
+        "id": 114,
+        "name": "AFC BOURNEMOUTH",
+        "type": 2
+      },
+      {
+        "displayName": "VIL",
+        "id": 117,
+        "name": "VILLARREAL CF",
+        "type": 2
+      },
+      {
+        "displayName": "QSL",
+        "id": 139,
+        "name": "QSL QATAR LEAGUE",
+        "type": 3
+      },
+      {
+        "displayName": "K1 ",
+        "id": 140,
+        "name": "K1 KOREAN LEAGUE",
+        "type": 3
+      },
+      {
+        "displayName": "CAF",
+        "id": 142,
+        "name": "CAF CHAMPION LEAGUE WINNER",
+        "type": 6
+      },
+      {
+        "displayName": "SC ",
+        "id": 144,
+        "name": "SC BRAGA",
+        "type": 2
+      }
+    ]
+  ],
+  "players": [
+    {
+      "f": "De Bruyne",
+      "g": "Kevin",
+      "id": 458,
+      "p": ""
+    },
+    {
+      "f": "rodri",
+      "g": "hernandez",
+      "id": 498,
+      "p": ""
+    },
+    {
+      "f": "Bobb",
+      "g": "Oscar",
+      "id": 608,
+      "p": "Milieu"
+    },
+    {
+      "f": "Alvarez",
+      "g": "Julian",
+      "id": 675,
+      "p": "Attaquant"
+    },
+    {
+      "f": "Ait-Nouri",
+      "g": "Rayan",
+      "id": 703,
+      "p": "Défense"
+    },
+    {
+      "f": "Mukau",
+      "g": "Ngalayel",
+      "id": 794,
+      "p": "Milieu"
+    },
+    {
+      "f": "Khusanov",
+      "g": "Abdukodir",
+      "id": 805,
+      "p": "Défense"
+    },
+    {
+      "f": "Williams",
+      "g": "Inaki",
+      "id": 852,
+      "p": "Attaquant"
+    },
+    {
+      "f": "Pasalic",
+      "g": "Mario",
+      "id": 863,
+      "p": "Milieu"
+    }
+  ],
+  "publishedAt": "2026-06-30T16:32:46.702Z"
+}
