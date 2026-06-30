@@ -1,24 +1,13 @@
 {
   "gameNumber": 1105,
+  "gameType": "connections",
   "remit": [
     [
-      {
-        "displayName": "Équipe d'Angleterre de football",
-        "id": 1,
-        "name": "ENGLAND",
-        "type": 1
-      },
       {
         "displayName": "Championnat d'Angleterre de football",
         "id": 2,
         "name": "PREMIER LEAGUE WINNER",
         "type": 6
-      },
-      {
-        "displayName": "Manchester City Football Club",
-        "id": 3,
-        "name": "MANCHESTER CITY",
-        "type": 2
       },
       {
         "displayName": "Arsenal Football Club",
@@ -27,32 +16,74 @@
         "type": 2
       },
       {
-        "displayName": "Équipe de Corée du Sud de football",
-        "id": 13,
-        "name": "SOUTH KOREA",
+        "displayName": "Championnat d'Espagne de football",
+        "id": 6,
+        "name": "LA LIGA WINNER",
+        "type": 6
+      },
+      {
+        "displayName": "Trophée de la Coupe du monde de football",
+        "id": 9,
+        "name": "WORLD CUP WINNER",
+        "type": 6
+      },
+      {
+        "displayName": "Équipe de Bosnie-Herzégovine de football",
+        "id": 18,
+        "name": "BOSNIE - HERZÉGOVINE",
         "type": 1
       },
       {
-        "displayName": "Équipe de Tchéquie de football",
-        "id": 14,
-        "name": "CZECH REPUBLIC",
-        "type": 1
-      },
-      {
-        "displayName": "Équipe de Suisse de football",
-        "id": 17,
-        "name": "SUISSE",
+        "displayName": "Équipe du Maroc de football",
+        "id": 22,
+        "name": "MOROCCO",
         "type": 1
       }
     ]
   ],
   "players": [
     {
-      "f": "Seung-ho",
-      "g": "Paik",
-      "id": 891,
+      "f": "Valverde",
+      "g": "Federico",
+      "id": 520,
+      "p": ""
+    },
+    {
+      "f": "Saliba",
+      "g": "William",
+      "id": 578,
+      "p": "Défense"
+    },
+    {
+      "f": "Mbappé",
+      "g": "Kylian",
+      "id": 592,
+      "p": "Attaquant"
+    },
+    {
+      "f": "Haaland",
+      "g": "Erling",
+      "id": 612,
+      "p": "Attaquant"
+    },
+    {
+      "f": "Rice",
+      "g": "Declan",
+      "id": 831,
+      "p": "Milieu"
+    },
+    {
+      "f": "Partey",
+      "g": "Thomas",
+      "id": 846,
+      "p": "Milieu"
+    },
+    {
+      "f": "Modric",
+      "g": "Luka",
+      "id": 862,
       "p": "Milieu"
     }
   ],
-  "publishedAt": "2026-06-29T18:17:54.462Z"
+  "publishedAt": "2026-06-30T16:10:09.036Z"
 }
