@@ -1,0 +1,152 @@
+{
+  "gameNumber": 1,
+  "gameType": "connections",
+  "players": [
+    {
+      "f": "ALISON",
+      "g": "BECKER",
+      "id": 97,
+      "p": "GK",
+      "v": [
+        23
+      ]
+    },
+    {
+      "f": "Maignan",
+      "g": "Mike",
+      "id": 568,
+      "p": "Gardien",
+      "v": [
+        43
+      ]
+    },
+    {
+      "f": "ALVAREZ",
+      "g": "EDSON",
+      "id": 1,
+      "p": "CM",
+      "v": [
+        12
+      ]
+    },
+    {
+      "f": "VINICIUS",
+      "g": "JUNIOR",
+      "id": 120,
+      "p": "LW",
+      "v": [
+        7
+      ]
+    },
+    {
+      "f": "Garcia",
+      "g": "Joan",
+      "id": 483,
+      "p": "GK",
+      "v": [
+        8
+      ]
+    },
+    {
+      "f": "Nunez",
+      "g": "Darwin",
+      "id": 527,
+      "p": "ST",
+      "v": [
+        5
+      ]
+    },
+    {
+      "f": "Mbappé",
+      "g": "Kylian",
+      "id": 592,
+      "p": "Attaquant",
+      "v": [
+        9
+      ]
+    },
+    {
+      "f": "Courtois",
+      "g": "Thibaut",
+      "id": 447,
+      "p": "GK",
+      "v": [
+        6
+      ]
+    },
+    {
+      "f": "Dembélé",
+      "g": "Ousmane",
+      "id": 589,
+      "p": "Attaquant",
+      "v": [
+        10
+      ]
+    }
+  ],
+  "publishedAt": "2026-06-30T17:00:51.000Z",
+  "remit": [
+    [
+      {
+        "displayName": "BRA",
+        "id": 23,
+        "name": "BRAZIL",
+        "type": 1
+      },
+      {
+        "displayName": "FRA",
+        "id": 43,
+        "name": "FRANCE",
+        "type": 1
+      },
+      {
+        "displayName": "MEX",
+        "id": 12,
+        "name": "MEXIQUE",
+        "type": 1
+      }
+    ],
+    [
+      {
+        "displayName": "RMA",
+        "id": 7,
+        "name": "REAL MADRID",
+        "type": 2
+      },
+      {
+        "displayName": "FCB",
+        "id": 8,
+        "name": "BARCELONA",
+        "type": 2
+      },
+      {
+        "displayName": "LIV",
+        "id": 5,
+        "name": "LIVERPOOL",
+        "type": 2
+      }
+    ],
+    [
+      {
+        "displayName": "WC",
+        "id": 9,
+        "name": "WORLD CUP WINNER",
+        "type": 6
+      },
+      {
+        "displayName": "LL",
+        "id": 6,
+        "name": "LA LIGA WINNER",
+        "type": 6
+      },
+      {
+        "displayName": "BDO",
+        "id": 10,
+        "name": "BALLON D'OR",
+        "type": 8
+      }
+    ]
+  ],
+  "updatedAt": "2026-06-30T19:53:07.772Z",
+  "updatedBy": "admin"
+}
