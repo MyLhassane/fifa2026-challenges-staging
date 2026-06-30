@@ -1,161 +1,161 @@
 {
   "gameNumber": 2,
   "gameType": "connections",
-  "players": [
-    {
-      "f": "Cancelo",
-      "g": "Joao",
-      "id": 741,
-      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782498944148-xeeyo5.png",
-      "p": "Défense",
-      "v": [
-        2
-      ]
-    },
-    {
-      "f": "Semedo",
-      "g": "Nelson",
-      "id": 746,
-      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782498984417-g8hkdf.png",
-      "p": "Défense",
-      "v": [
-        6
-      ]
-    },
-    {
-      "f": "Modric",
-      "g": "Luka",
-      "id": 862,
-      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782360864516-q14uzs.png",
-      "p": "Milieu",
-      "v": [
-        100
-      ]
-    },
-    {
-      "f": "Ronaldo",
-      "g": "Cristiano",
-      "id": 761,
-      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782498734118-hhefai.png",
-      "p": "Attaquant",
-      "v": [
-        121
-      ]
-    },
-    {
-      "f": "Rios",
-      "g": "Richard",
-      "id": 775,
-      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782460331228-d2xfyn.png",
-      "p": "Milieu",
-      "v": [
-        151
-      ]
-    },
-    {
-      "f": "Fernandes",
-      "g": "Bruno",
-      "id": 748,
-      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782498901861-jiy1ht.png",
-      "p": "Milieu",
-      "v": [
-        72
-      ]
-    },
-    {
-      "f": "Mayele",
-      "g": "Fiston",
-      "id": 798,
-      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782440509314-2ab23p.png",
-      "p": "Attaquant",
-      "v": [
-        181
-      ]
-    },
-    {
-      "f": "Ashurmatov",
-      "g": "Rustam",
-      "id": 803,
-      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782411769912-13pc3r.png",
-      "p": "Défense",
-      "v": [
-        140
-      ]
-    },
-    {
-      "f": "Mendes",
-      "g": "Nuno",
-      "id": 745,
-      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782498977729-601whc.png",
-      "p": "Défense",
-      "v": [
-        64
-      ]
-    }
-  ],
-  "publishedAt": "2026-06-30T22:00:00.000Z",
   "remit": [
     [
       {
-        "displayName": "PL",
         "id": 2,
         "name": "PREMIER LEAGUE WINNER",
-        "type": 6
+        "type": 6,
+        "displayName": "PL"
       },
       {
-        "displayName": "LL",
         "id": 6,
         "name": "LA LIGA WINNER",
-        "type": 6
+        "type": 6,
+        "displayName": "LL"
       },
       {
-        "displayName": "TOTY",
         "id": 100,
         "name": "TOTY PLAYER",
-        "type": 8
+        "type": 8,
+        "displayName": "TOTY"
       }
     ],
     [
       {
-        "displayName": "RSL",
         "id": 121,
         "name": "ROSHN SAUDI LEAGUE",
-        "type": 3
+        "type": 3,
+        "displayName": "RSL"
       },
       {
-        "displayName": "BRA",
         "id": 151,
         "name": "BRASILEIRAO LEAGUE",
-        "type": 3
+        "type": 3,
+        "displayName": "BRA"
       },
       {
-        "displayName": "LP",
         "id": 72,
         "name": "LIGA PORTUGAL",
-        "type": 3
+        "type": 3,
+        "displayName": "LP"
       }
     ],
     [
       {
-        "displayName": "EPL",
         "id": 181,
         "name": "EGYPTIAN PREMIER LEAGUE",
-        "type": 3
+        "type": 3,
+        "displayName": "EPL"
       },
       {
-        "displayName": "K1",
         "id": 140,
         "name": "K1 KOREAN LEAGUE",
-        "type": 3
+        "type": 3,
+        "displayName": "K1"
       },
       {
-        "displayName": "L1",
         "id": 64,
         "name": "LIGUE 1",
-        "type": 3
+        "type": 3,
+        "displayName": "L1"
       }
     ]
   ],
-  "updatedAt": "2026-06-30T20:48:04.084Z",
+  "players": [
+    {
+      "id": 741,
+      "f": "Cancelo",
+      "g": "Joao",
+      "v": [
+        2
+      ],
+      "p": "Défense",
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782498944148-xeeyo5.png"
+    },
+    {
+      "id": 746,
+      "f": "Semedo",
+      "g": "Nelson",
+      "v": [
+        6
+      ],
+      "p": "Défense",
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782498984417-g8hkdf.png"
+    },
+    {
+      "id": 862,
+      "f": "Modric",
+      "g": "Luka",
+      "v": [
+        100
+      ],
+      "p": "Milieu",
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782360864516-q14uzs.png"
+    },
+    {
+      "id": 761,
+      "f": "Ronaldo",
+      "g": "Cristiano",
+      "v": [
+        121
+      ],
+      "p": "Attaquant",
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782498734118-hhefai.png"
+    },
+    {
+      "id": 775,
+      "f": "Rios",
+      "g": "Richard",
+      "v": [
+        151
+      ],
+      "p": "Milieu",
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782460331228-d2xfyn.png"
+    },
+    {
+      "id": 748,
+      "f": "Fernandes",
+      "g": "Bruno",
+      "v": [
+        72
+      ],
+      "p": "Milieu",
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782498901861-jiy1ht.png"
+    },
+    {
+      "id": 798,
+      "f": "Mayele",
+      "g": "Fiston",
+      "v": [
+        181
+      ],
+      "p": "Attaquant",
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782440509314-2ab23p.png"
+    },
+    {
+      "id": 803,
+      "f": "Ashurmatov",
+      "g": "Rustam",
+      "v": [
+        140
+      ],
+      "p": "Défense",
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782411769912-13pc3r.png"
+    },
+    {
+      "id": 745,
+      "f": "Mendes",
+      "g": "Nuno",
+      "v": [
+        64
+      ],
+      "p": "Défense",
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782498977729-601whc.png"
+    }
+  ],
+  "publishedAt": "2026-06-30T22:00:00.000Z",
+  "updatedAt": "2026-06-30T22:00:00.000Z",
   "updatedBy": "admin"
 }
