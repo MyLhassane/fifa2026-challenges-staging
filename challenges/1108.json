@@ -1,0 +1,36 @@
+{
+  "gameNumber": 1108,
+  "gameType": "impostor",
+  "remit": [],
+  "players": [
+    {
+      "f": "Berge",
+      "g": "Sander",
+      "id": 607,
+      "p": "Milieu"
+    },
+    {
+      "f": "Affengruber",
+      "g": "David",
+      "id": 682,
+      "p": "Défense"
+    },
+    {
+      "f": "Kalulu",
+      "g": "Gedeon",
+      "id": 785,
+      "p": "Défense"
+    },
+    {
+      "f": "O'Reilly",
+      "g": "Nico",
+      "id": 830,
+      "p": "Milieu"
+    }
+  ],
+  "publishedAt": "2026-06-30T16:31:57.864Z",
+  "impostorConfig": {
+    "categoryId": 3,
+    "impostorPlayerId": 607
+  }
+}
