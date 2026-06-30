@@ -1,0 +1,50 @@
+{
+  "gameNumber": 1107,
+  "gameType": "grid",
+  "remit": [],
+  "players": [],
+  "publishedAt": "2026-06-30T16:30:21.224Z",
+  "gridConfig": {
+    "cells": [
+      [
+        69,
+        76,
+        45
+      ],
+      [
+        71,
+        110,
+        61
+      ],
+      [
+        139,
+        83,
+        123
+      ]
+    ],
+    "columnCategories": [
+      [
+        64,
+        110
+      ],
+      [
+        76,
+        182
+      ],
+      [
+        94
+      ]
+    ],
+    "rowCategories": [
+      [
+        2
+      ],
+      [
+        61
+      ],
+      [
+        42
+      ]
+    ]
+  }
+}
