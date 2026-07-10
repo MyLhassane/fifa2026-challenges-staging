@@ -360,90 +360,90 @@
       ]
     }
   ],
-  "publishedAt": "2026-07-10T12:53:58.376Z",
+  "publishedAt": "2026-07-10T13:01:19.403Z",
   "remit": [
     [
       {
         "displayName": "FRA",
         "id": 43,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411779122-u47d32.png",
         "name": "FRANCE",
-        "type": 1,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411779122-u47d32.png"
+        "type": 1
       }
     ],
     [
       {
         "displayName": "ARG",
         "id": 47,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411752581-7et4al.png",
         "name": "ARGENTINE",
-        "type": 1,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411752581-7et4al.png"
+        "type": 1
       }
     ],
     [
       {
         "displayName": "BRA",
         "id": 23,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411975814-a9hc5r.png",
         "name": "BRAZIL",
-        "type": 1,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411975814-a9hc5r.png"
+        "type": 1
       }
     ],
     [
       {
         "displayName": "POR",
         "id": 51,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411717246-g319ih.png",
         "name": "PORTUGAL",
-        "type": 1,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411717246-g319ih.png"
+        "type": 1
       }
     ],
     [
       {
         "displayName": "REA",
         "id": 7,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486047400-9o5vtc.png",
         "name": "REAL MADRID",
-        "type": 2,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486047400-9o5vtc.png"
+        "type": 2
       }
     ],
     [
       {
         "displayName": "BAR",
         "id": 8,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486055084-hxctym.png",
         "name": "BARCELONA",
-        "type": 2,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486055084-hxctym.png"
+        "type": 2
       }
     ],
     [
       {
         "displayName": "MAN",
         "id": 3,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486041085-7ed330.png",
         "name": "MANCHESTER CITY",
-        "type": 2,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486041085-7ed330.png"
+        "type": 2
       }
     ],
     [
       {
         "displayName": "PRE",
         "id": 92,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783406467977-smoylq.png",
         "name": "PREMIER LEAGUE",
-        "type": 3,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783406467977-smoylq.png"
+        "type": 3
       }
     ],
     [
       {
         "displayName": "CHA",
         "id": 81,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783492503311-txqvi9.png",
         "name": "CHAMPION LEAGUE WINNER",
-        "type": 6,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783492503311-txqvi9.png"
+        "type": 6
       }
     ]
   ],
-  "updatedAt": "2026-07-10T12:53:58.376Z",
+  "updatedAt": "2026-07-10T13:01:19.403Z",
   "updatedBy": "admin"
 }
