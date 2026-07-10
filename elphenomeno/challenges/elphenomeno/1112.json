@@ -1,6 +1,89 @@
 {
   "gameNumber": 1112,
   "gameType": "elphenomeno",
+  "remit": [
+    [
+      {
+        "displayName": "MAN",
+        "id": 3,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486041085-7ed330.png",
+        "name": "MANCHESTER CITY",
+        "type": 2
+      }
+    ],
+    [
+      {
+        "displayName": "ESP",
+        "id": 39,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411811071-alrlr1.png",
+        "name": "ESPAGNE",
+        "type": 1
+      }
+    ],
+    [
+      {
+        "displayName": "COP",
+        "id": 165,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783493326959-3ynp7c.png",
+        "name": "COPA AMERICA WINNER",
+        "type": 6
+      }
+    ],
+    [
+      {
+        "displayName": "SEV",
+        "id": 194,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783475862802-peyw2a.png",
+        "name": "SEVILLA FC",
+        "type": 2
+      }
+    ],
+    [
+      {
+        "displayName": "BRA",
+        "id": 23,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411975814-a9hc5r.png",
+        "name": "BRAZIL",
+        "type": 1
+      }
+    ],
+    [
+      {
+        "displayName": "PAY",
+        "id": 31,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411922596-01qlzm.png",
+        "name": "PAYS-BAS",
+        "type": 1
+      }
+    ],
+    [
+      {
+        "displayName": "EUR",
+        "id": 82,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783493207230-gnbx1h.png",
+        "name": "EUROPA LEAGUE WINNER",
+        "type": 6
+      }
+    ],
+    [
+      {
+        "displayName": "ERE",
+        "id": 75,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783406495352-7vv5kw.png",
+        "name": "EREDIVISIE",
+        "type": 3
+      }
+    ],
+    [
+      {
+        "displayName": "FC ",
+        "id": 149,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783479459277-tukiv8.png",
+        "name": "FC PORTO",
+        "type": 2
+      }
+    ]
+  ],
   "players": [
     {
       "f": "Nmecha",
@@ -353,81 +436,5 @@
       "p": "Attaquant"
     }
   ],
-  "publishedAt": "2026-07-10T12:14:32.315Z",
-  "remit": [
-    [
-      {
-        "displayName": "MAN",
-        "id": 3,
-        "name": "MANCHESTER CITY",
-        "type": 2
-      }
-    ],
-    [
-      {
-        "displayName": "ESP",
-        "id": 39,
-        "name": "ESPAGNE",
-        "type": 1
-      }
-    ],
-    [
-      {
-        "displayName": "COP",
-        "id": 165,
-        "name": "COPA AMERICA WINNER",
-        "type": 6
-      }
-    ],
-    [
-      {
-        "displayName": "SEV",
-        "id": 194,
-        "name": "SEVILLA FC",
-        "type": 2
-      }
-    ],
-    [
-      {
-        "displayName": "BRA",
-        "id": 23,
-        "name": "BRAZIL",
-        "type": 1
-      }
-    ],
-    [
-      {
-        "displayName": "PAY",
-        "id": 31,
-        "name": "PAYS-BAS",
-        "type": 1
-      }
-    ],
-    [
-      {
-        "displayName": "EUR",
-        "id": 82,
-        "name": "EUROPA LEAGUE WINNER",
-        "type": 6
-      }
-    ],
-    [
-      {
-        "displayName": "ERE",
-        "id": 75,
-        "name": "EREDIVISIE",
-        "type": 3
-      }
-    ],
-    [
-      {
-        "displayName": "FC ",
-        "id": 149,
-        "name": "FC PORTO",
-        "type": 2
-      }
-    ]
-  ],
-  "updatedAt": "2026-07-10T12:14:32.315Z",
-  "updatedBy": "admin"
+  "publishedAt": "2026-07-10T13:13:30.669Z"
 }
