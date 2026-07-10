@@ -1,6 +1,89 @@
 {
   "gameNumber": 1114,
   "gameType": "elphenomeno",
+  "remit": [
+    [
+      {
+        "displayName": "FRA",
+        "id": 43,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411779122-u47d32.png",
+        "name": "FRANCE",
+        "type": 1
+      }
+    ],
+    [
+      {
+        "displayName": "ARG",
+        "id": 47,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411752581-7et4al.png",
+        "name": "ARGENTINE",
+        "type": 1
+      }
+    ],
+    [
+      {
+        "displayName": "BRA",
+        "id": 23,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411975814-a9hc5r.png",
+        "name": "BRAZIL",
+        "type": 1
+      }
+    ],
+    [
+      {
+        "displayName": "POR",
+        "id": 51,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411717246-g319ih.png",
+        "name": "PORTUGAL",
+        "type": 1
+      }
+    ],
+    [
+      {
+        "displayName": "REA",
+        "id": 7,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486047400-9o5vtc.png",
+        "name": "REAL MADRID",
+        "type": 2
+      }
+    ],
+    [
+      {
+        "displayName": "BAR",
+        "id": 8,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486055084-hxctym.png",
+        "name": "BARCELONA",
+        "type": 2
+      }
+    ],
+    [
+      {
+        "displayName": "MAN",
+        "id": 3,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486041085-7ed330.png",
+        "name": "MANCHESTER CITY",
+        "type": 2
+      }
+    ],
+    [
+      {
+        "displayName": "PRE",
+        "id": 92,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783406467977-smoylq.png",
+        "name": "PREMIER LEAGUE",
+        "type": 3
+      }
+    ],
+    [
+      {
+        "displayName": "CHA",
+        "id": 81,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783492503311-txqvi9.png",
+        "name": "CHAMPION LEAGUE WINNER",
+        "type": 6
+      }
+    ]
+  ],
   "players": [
     {
       "f": "Rabiot",
@@ -360,90 +443,5 @@
       ]
     }
   ],
-  "publishedAt": "2026-07-10T13:05:00.188Z",
-  "remit": [
-    [
-      {
-        "displayName": "FRA",
-        "id": 43,
-        "name": "FRANCE",
-        "type": 1,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411779122-u47d32.png"
-      }
-    ],
-    [
-      {
-        "displayName": "ARG",
-        "id": 47,
-        "name": "ARGENTINE",
-        "type": 1,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411752581-7et4al.png"
-      }
-    ],
-    [
-      {
-        "displayName": "BRA",
-        "id": 23,
-        "name": "BRAZIL",
-        "type": 1,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411975814-a9hc5r.png"
-      }
-    ],
-    [
-      {
-        "displayName": "POR",
-        "id": 51,
-        "name": "PORTUGAL",
-        "type": 1,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411717246-g319ih.png"
-      }
-    ],
-    [
-      {
-        "displayName": "REA",
-        "id": 7,
-        "name": "REAL MADRID",
-        "type": 2,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486047400-9o5vtc.png"
-      }
-    ],
-    [
-      {
-        "displayName": "BAR",
-        "id": 8,
-        "name": "BARCELONA",
-        "type": 2,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486055084-hxctym.png"
-      }
-    ],
-    [
-      {
-        "displayName": "MAN",
-        "id": 3,
-        "name": "MANCHESTER CITY",
-        "type": 2,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486041085-7ed330.png"
-      }
-    ],
-    [
-      {
-        "displayName": "PRE",
-        "id": 92,
-        "name": "PREMIER LEAGUE",
-        "type": 3,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783406467977-smoylq.png"
-      }
-    ],
-    [
-      {
-        "displayName": "CHA",
-        "id": 81,
-        "name": "CHAMPION LEAGUE WINNER",
-        "type": 6,
-        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783492503311-txqvi9.png"
-      }
-    ]
-  ],
-  "updatedAt": "2026-07-10T13:05:00.190Z",
-  "updatedBy": "admin"
+  "publishedAt": "2026-07-10T13:13:59.618Z"
 }
