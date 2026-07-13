@@ -1,7 +1,141 @@
 {
   "gameNumber": 1103,
   "gameType": "connections",
-  "remit": [],
-  "players": [],
-  "publishedAt": "2026-06-30T13:30:49.796Z"
+  "remit": [
+    [
+      {
+        "displayName": "REA",
+        "id": 7,
+        "name": "REAL MADRID",
+        "type": 2
+      }
+    ],
+    [
+      {
+        "displayName": "MAR",
+        "id": 60,
+        "name": "MARSEILLE",
+        "type": 2
+      }
+    ],
+    [
+      {
+        "displayName": "PRE",
+        "id": 2,
+        "name": "PREMIER LEAGUE WINNER",
+        "type": 6
+      }
+    ],
+    [
+      {
+        "displayName": "MOR",
+        "id": 22,
+        "name": "MOROCCO",
+        "type": 1
+      }
+    ],
+    [
+      {
+        "displayName": "SUE",
+        "id": 33,
+        "name": "SUEDE",
+        "type": 1
+      }
+    ],
+    [
+      {
+        "displayName": "AC ",
+        "id": 172,
+        "name": "AC MILAN",
+        "type": 2
+      }
+    ],
+    [
+      {
+        "displayName": "WES",
+        "id": 94,
+        "name": "WEST HAM UNITED",
+        "type": 2
+      }
+    ],
+    [
+      {
+        "displayName": "CRO",
+        "id": 56,
+        "name": "CROATIA",
+        "type": 1
+      }
+    ],
+    [
+      {
+        "displayName": "COP",
+        "id": 165,
+        "name": "COPA AMERICA WINNER",
+        "type": 6
+      }
+    ]
+  ],
+  "players": [
+    {
+      "f": "DIAZ",
+      "g": "BRAHIM",
+      "id": 135,
+      "p": "Attaquant"
+    },
+    {
+      "f": "Ayari",
+      "g": "Yasin",
+      "id": 376,
+      "p": "Milieu"
+    },
+    {
+      "f": "Hernandez",
+      "g": "Theo",
+      "id": 574,
+      "p": "Défense"
+    },
+    {
+      "f": "CASEMIRO",
+      "g": "CARLOS",
+      "id": 107,
+      "p": "Milieu"
+    },
+    {
+      "f": "PAQUETA",
+      "g": "LUCAS",
+      "id": 111,
+      "p": "Milieu"
+    },
+    {
+      "f": "AGUERD",
+      "g": "NAYEF",
+      "id": 124,
+      "p": "Défense"
+    },
+    {
+      "f": "COUFAL",
+      "g": "VLADIMIR",
+      "id": 16,
+      "p": "Défense"
+    },
+    {
+      "f": "EL KAABI",
+      "g": "AYOUB",
+      "id": 144,
+      "p": "Attaquant"
+    },
+    {
+      "f": "Livakovic",
+      "g": "Dominik",
+      "id": 853,
+      "p": "Gardien"
+    },
+    {
+      "f": "DANILO",
+      "g": "DA SILVA",
+      "id": 108,
+      "p": "Défense"
+    }
+  ],
+  "publishedAt": "2026-07-08T18:06:49.422Z"
 }
