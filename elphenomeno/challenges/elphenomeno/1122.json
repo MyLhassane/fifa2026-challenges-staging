@@ -1,1 +1,457 @@
-{"gameNumber": 1122, "gameType": "elphenomeno", "difficulty": "Beginner", "remit": [[{"id": 47, "name": "ARGENTINE", "type": 1, "displayName": "ARG"}], [{"id": 51, "name": "PORTUGAL", "type": 1, "displayName": "POR"}], [{"id": 39, "name": "ESPAGNE", "type": 1, "displayName": "ESP"}], [{"id": 9, "name": "WORLD CUP WINNER", "type": 6, "displayName": "WOR"}], [{"id": 169, "name": "EURO WINNER", "type": 6, "displayName": "EUR"}], [{"id": 165, "name": "COPA AMERICA WINNER", "type": 6, "displayName": "COP"}], [{"id": 172, "name": "AC MILAN", "type": 2, "displayName": "AC "}], [{"id": 76, "name": "INTER MILAN", "type": 2, "displayName": "INT"}], [{"id": 167, "name": "JUVENTUS FC", "type": 2, "displayName": "JUV"}]], "players": [{"id": 679, "f": "Messi", "g": "Lionel", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783326642687-smie2b.png", "p": "Attaquant", "v": [47]}, {"id": 761, "f": "Ronaldo", "g": "Cristiano", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783327521095-7qqukn.png", "p": "Attaquant", "v": [51]}, {"id": 500, "f": "Zubimendi", "g": "Martin", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324886630-qmut0j.png", "p": "Milieu", "v": [39]}, {"id": 678, "f": "Martinez", "g": "Lautaro", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783326650344-sgxrl3.png", "p": "Attaquant", "v": [9]}, {"id": 490, "f": "Laporte", "g": "Aymeric", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324949850-gaitgc.png", "p": "Défense", "v": [169]}, {"id": 669, "f": "Mac Allister", "g": "Alexis", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783326745554-2x6lvx.png", "p": "Milieu", "v": [165]}, {"id": 335, "f": "Reijnders", "g": "Tijjani", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783298139757-zl4oel.png", "p": "Milieu", "v": [172]}, {"id": 861, "f": "Kovacic", "g": "Mateo", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783328994067-mqtdv7.png", "p": "Milieu", "v": [76]}, {"id": 741, "f": "Cancelo", "g": "Joao", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783327576252-m8murg.png", "p": "Défense", "v": [167]}, {"id": 680, "f": "Simeone", "g": "Giuliano", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783326632645-mr31cq.png", "p": "Attaquant", "v": [47]}, {"id": 754, "f": "VITINHA", "g": "Machado Ferreira", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783327651502-q5gm5i.png", "p": "Milieu", "v": [51]}, {"id": 483, "f": "Garcia", "g": "Joan", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324990075-yunzct.png", "p": "Gardien", "v": [39]}, {"id": 592, "f": "Mbappe", "g": "Kylian", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783325262719-3n4wa7.png", "p": "Attaquant", "v": [9]}, {"id": 104, "f": "MARQUINHOS", "g": "CORREA", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783073334414-talc1z.png", "p": "Défense", "v": [165]}, {"id": 568, "f": "Maignan", "g": "Mike", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783325388581-jl4771.png", "p": "Gardien", "v": [172]}, {"id": 469, "f": "Lukaku", "g": "Romelu", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324569266-8g2zq8.png", "p": "Attaquant", "v": [76]}, {"id": 108, "f": "DANILO", "g": "DA SILVA", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783073388190-6i35ed.png", "p": "Défense", "v": [167]}, {"id": 100, "f": "GLEISON", "g": "BREMER", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783073360523-qrsaqb.png", "p": "Défense", "v": [167]}, {"id": 680, "f": "Simeone", "g": "Giuliano", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783326632645-mr31cq.png", "p": "Attaquant", "v": [47]}, {"id": 672, "f": "Paz", "g": "Nico", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783326731990-6kbctt.png", "p": "Milieu", "v": [47]}, {"id": 261, "f": "Musiala", "g": "Jamal", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783235271683-bo63ad.png", "p": "Milieu"}, {"id": 503, "f": "Yamal", "g": "Lamine", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324874502-8kt69c.png", "p": "Attaquant", "v": [39, 169]}, {"id": 520, "f": "Valverde", "g": "Federico", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783325132122-hqmous.png", "p": "Milieu"}, {"id": 486, "f": "Cubarsi", "g": "Pau", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324969118-a2k7sd.png", "p": "Défense", "v": [39]}, {"id": 189, "f": "Robinson", "g": "Antonee", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782885832729-ccjlyg.png", "p": "Défense"}, {"id": 749, "f": "Neves", "g": "Joao", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783327624462-150nmf.png", "p": "Milieu", "v": [51]}, {"id": 501, "f": "Baena", "g": "Alex", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324882532-s9bb9g.png", "p": "Attaquant", "v": [39, 169]}, {"id": 496, "f": "Olmo", "g": "Dani", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324906888-6rkxs8.png", "p": "Milieu", "v": [39, 169]}, {"id": 14, "f": "HEUNG-MIN", "g": "SON", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782891187251-wnnk7n.png", "p": "Attaquant"}, {"id": 824, "f": "Stones", "g": "John", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782886772779-j081na.png", "p": "Défense"}, {"id": 230, "f": "Demiral", "g": "Merih", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783234105406-vcokyd.png", "p": "Défense", "v": [167]}, {"id": 836, "f": "Rashford", "g": "Marcus", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782886670833-zue0ot.png", "p": "Attaquant"}, {"id": 499, "f": "Ruiz", "g": "Fabian", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324892461-c6klrc.png", "p": "Milieu", "v": [39, 169]}, {"id": 184, "f": "Dest", "g": "Serginho", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782885867199-0lbld0.png", "p": "Défense", "v": [172]}, {"id": 467, "f": "Doku", "g": "Jeremy", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324579707-p9tdwg.png", "p": "Attaquant"}, {"id": 117, "f": "RAPHINHA", "g": "DIAS", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783073225793-fmme8h.png", "p": "Attaquant"}, {"id": 754, "f": "VITINHA", "g": "Machado Ferreira", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783327651502-q5gm5i.png", "p": "Milieu", "v": [51]}, {"id": 590, "f": "Doue", "g": "Desire", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783325253702-kyv7y9.png", "p": "Attaquant"}, {"id": 112, "f": "CUNHA", "g": "MATHEUS", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783073268714-ummgo1.png", "p": "Attaquant"}, {"id": 110, "f": "FABINHO", "g": "HENRIQUE", "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783073279759-sz6a0f.png", "p": "Milieu"}], "publishedAt": null, "updatedAt": "2026-07-10T12:00:00.000Z", "updatedBy": "agent"}
+{
+  "gameNumber": 1122,
+  "gameType": "elphenomeno",
+  "remit": [
+    [
+      {
+        "displayName": "ARG",
+        "id": 47,
+        "name": "ARGENTINE",
+        "type": 1,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411752581-7et4al.png"
+      }
+    ],
+    [
+      {
+        "displayName": "POR",
+        "id": 51,
+        "name": "PORTUGAL",
+        "type": 1,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411717246-g319ih.png"
+      }
+    ],
+    [
+      {
+        "displayName": "ESP",
+        "id": 39,
+        "name": "ESPAGNE",
+        "type": 1,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783411811071-alrlr1.png"
+      }
+    ],
+    [
+      {
+        "displayName": "WOR",
+        "id": 9,
+        "name": "WORLD CUP WINNER",
+        "type": 6,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783493540466-i09u96.png"
+      }
+    ],
+    [
+      {
+        "displayName": "EUR",
+        "id": 169,
+        "name": "EURO WINNER",
+        "type": 6,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783492260411-js3w99.png"
+      }
+    ],
+    [
+      {
+        "displayName": "COP",
+        "id": 165,
+        "name": "COPA AMERICA WINNER",
+        "type": 6,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783493326959-3ynp7c.png"
+      }
+    ],
+    [
+      {
+        "displayName": "AC ",
+        "id": 172,
+        "name": "AC MILAN",
+        "type": 2,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783475971101-romwdl.png"
+      }
+    ],
+    [
+      {
+        "displayName": "INT",
+        "id": 76,
+        "name": "INTER MILAN",
+        "type": 2,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783486065802-e0qu3z.png"
+      }
+    ],
+    [
+      {
+        "displayName": "JUV",
+        "id": 167,
+        "name": "JUVENTUS FC",
+        "type": 2,
+        "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783479428556-s8lx77.png"
+      }
+    ]
+  ],
+  "players": [
+    {
+      "f": "Messi",
+      "g": "Lionel",
+      "id": 679,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783326642687-smie2b.png",
+      "p": "Attaquant",
+      "v": [
+        9,
+        47,
+        165
+      ]
+    },
+    {
+      "f": "Ronaldo",
+      "g": "Cristiano",
+      "id": 761,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783327521095-7qqukn.png",
+      "p": "Attaquant",
+      "v": [
+        51,
+        167,
+        169
+      ]
+    },
+    {
+      "f": "Zubimendi",
+      "g": "Martin",
+      "id": 500,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324886630-qmut0j.png",
+      "p": "Milieu",
+      "v": [
+        39,
+        169
+      ]
+    },
+    {
+      "f": "Martinez",
+      "g": "Lautaro",
+      "id": 678,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783326650344-sgxrl3.png",
+      "p": "Attaquant",
+      "v": [
+        9,
+        47,
+        76,
+        165
+      ]
+    },
+    {
+      "f": "Laporte",
+      "g": "Aymeric",
+      "id": 490,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324949850-gaitgc.png",
+      "p": "Défense",
+      "v": [
+        39,
+        169
+      ]
+    },
+    {
+      "f": "Mac Allister",
+      "g": "Alexis",
+      "id": 669,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783326745554-2x6lvx.png",
+      "p": "Milieu",
+      "v": [
+        9,
+        47,
+        165
+      ]
+    },
+    {
+      "f": "Reijnders",
+      "g": "Tijjani",
+      "id": 335,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783298139757-zl4oel.png",
+      "p": "Milieu",
+      "v": [
+        172
+      ]
+    },
+    {
+      "f": "Kovacic",
+      "g": "Mateo",
+      "id": 861,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783328994067-mqtdv7.png",
+      "p": "Milieu",
+      "v": [
+        76
+      ]
+    },
+    {
+      "f": "Cancelo",
+      "g": "Joao",
+      "id": 741,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783327576252-m8murg.png",
+      "p": "Défense",
+      "v": [
+        51,
+        76,
+        167
+      ]
+    },
+    {
+      "f": "GLEISON",
+      "g": "BREMER",
+      "id": 100,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783073360523-qrsaqb.png",
+      "p": "Défense",
+      "v": [
+        167
+      ]
+    },
+    {
+      "f": "Simeone",
+      "g": "Giuliano",
+      "id": 680,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783326632645-mr31cq.png",
+      "p": "Attaquant",
+      "v": [
+        47
+      ]
+    },
+    {
+      "f": "Paz",
+      "g": "Nico",
+      "id": 672,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783326731990-6kbctt.png",
+      "p": "Milieu",
+      "v": [
+        47
+      ]
+    },
+    {
+      "f": "Musiala",
+      "g": "Jamal",
+      "id": 261,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783235271683-bo63ad.png",
+      "p": "Milieu"
+    },
+    {
+      "f": "Yamal",
+      "g": "Lamine",
+      "id": 503,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324874502-8kt69c.png",
+      "p": "Attaquant",
+      "v": [
+        39,
+        169
+      ]
+    },
+    {
+      "f": "Valverde",
+      "g": "Federico",
+      "id": 520,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783325132122-hqmous.png",
+      "p": "Milieu"
+    },
+    {
+      "f": "Cubarsi",
+      "g": "Pau",
+      "id": 486,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324969118-a2k7sd.png",
+      "p": "Défense",
+      "v": [
+        39
+      ]
+    },
+    {
+      "f": "Robinson",
+      "g": "Antonee",
+      "id": 189,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782885832729-ccjlyg.png",
+      "p": "Défense"
+    },
+    {
+      "f": "Neves",
+      "g": "Joao",
+      "id": 749,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783327624462-150nmf.png",
+      "p": "Milieu",
+      "v": [
+        51
+      ]
+    },
+    {
+      "f": "Baena",
+      "g": "Alex",
+      "id": 501,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324882532-s9bb9g.png",
+      "p": "Attaquant",
+      "v": [
+        39,
+        169
+      ]
+    },
+    {
+      "f": "Olmo",
+      "g": "Dani",
+      "id": 496,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324906888-6rkxs8.png",
+      "p": "Milieu",
+      "v": [
+        39,
+        169
+      ]
+    },
+    {
+      "f": "HEUNG-MIN",
+      "g": "SON",
+      "id": 14,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782891187251-wnnk7n.png",
+      "p": "Attaquant"
+    },
+    {
+      "f": "Stones",
+      "g": "John",
+      "id": 824,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782886772779-j081na.png",
+      "p": "Défense"
+    },
+    {
+      "f": "Demiral",
+      "g": "Merih",
+      "id": 230,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783234105406-vcokyd.png",
+      "p": "Défense",
+      "v": [
+        167
+      ]
+    },
+    {
+      "f": "Rashford",
+      "g": "Marcus",
+      "id": 836,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782886670833-zue0ot.png",
+      "p": "Attaquant"
+    },
+    {
+      "f": "Ruiz",
+      "g": "Fabian",
+      "id": 499,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324892461-c6klrc.png",
+      "p": "Milieu",
+      "v": [
+        39,
+        169
+      ]
+    },
+    {
+      "f": "Dest",
+      "g": "Serginho",
+      "id": 184,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1782885867199-0lbld0.png",
+      "p": "Défense",
+      "v": [
+        172
+      ]
+    },
+    {
+      "f": "Doku",
+      "g": "Jeremy",
+      "id": 467,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324579707-p9tdwg.png",
+      "p": "Attaquant"
+    },
+    {
+      "f": "RAPHINHA",
+      "g": "DIAS",
+      "id": 117,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783073225793-fmme8h.png",
+      "p": "Attaquant"
+    },
+    {
+      "f": "VITINHA",
+      "g": "Machado Ferreira",
+      "id": 754,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783327651502-q5gm5i.png",
+      "p": "Milieu",
+      "v": [
+        51
+      ]
+    },
+    {
+      "f": "Doue",
+      "g": "Desire",
+      "id": 590,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783325253702-kyv7y9.png",
+      "p": "Attaquant"
+    },
+    {
+      "f": "CUNHA",
+      "g": "MATHEUS",
+      "id": 112,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783073268714-ummgo1.png",
+      "p": "Attaquant"
+    },
+    {
+      "f": "FABINHO",
+      "g": "HENRIQUE",
+      "id": 110,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783073279759-sz6a0f.png",
+      "p": "Milieu"
+    },
+    {
+      "f": "Trossard",
+      "g": "Leandro",
+      "id": 471,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324560537-mwft69.png",
+      "p": "Attaquant"
+    },
+    {
+      "f": "DUMFRIES",
+      "g": "DENZEL",
+      "id": 326,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783298193870-kw9k0b.png",
+      "p": "Défense",
+      "v": [
+        76
+      ]
+    },
+    {
+      "f": "Pedri",
+      "g": "gonzalez",
+      "id": 497,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783324902541-ys10o0.png",
+      "p": "Milieu",
+      "v": [
+        39,
+        169
+      ]
+    },
+    {
+      "f": "Havertz",
+      "g": "Kai",
+      "id": 268,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783235217171-sldzpj.png",
+      "p": "Attaquant"
+    },
+    {
+      "f": "Olise",
+      "g": "Michael",
+      "id": 583,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783325298285-cphz1g.png",
+      "p": "Milieu"
+    },
+    {
+      "f": "Kounde",
+      "g": "Jules",
+      "id": 576,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783325340177-3tuz5f.png",
+      "p": "Défense"
+    },
+    {
+      "f": "Tchouameni",
+      "g": "Aurelien",
+      "id": 585,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783325290085-a04pf6.png",
+      "p": "Milieu"
+    },
+    {
+      "f": "Alaba",
+      "g": "David",
+      "id": 683,
+      "image": "https://fifa2026-upload.mylhassane.workers.dev/fifa2026/images/1783326960357-9jdkip.png",
+      "p": "Défense"
+    }
+  ],
+  "publishedAt": "2026-07-14T23:58:28.959Z"
+}
